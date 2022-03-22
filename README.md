@@ -2,7 +2,8 @@
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning Python, HTML5, and CSS3
 - 💞️ I’m looking to collaborate on Front End Internships
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- LinkedIn:  www.linkedin.com/in/khai-truong-mga
 
 <!---
 Khai-Truong77/Khai-Truong77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
